@@ -15,6 +15,7 @@ Every year I add some products and prices but the idea was that visitors are add
 
 - Check all variables in the config files in `public/application/config/`
 - Import the database `database.sql`
+- Make sure `short_open_tag` is enabled, see: http://php.net/manual/en/ini.core.php#ini.short-open-tag
 
 ## Questions? Bugs?
 
